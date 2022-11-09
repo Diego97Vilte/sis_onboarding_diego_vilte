@@ -22,7 +22,7 @@ $sql3= $db->Prepare("SELECT *
 					LIMIT ? OFFSET ?
 					");
 $smarty->assign("asesores", $db->GetAll($sql3, array($nElem, $regIni)));
-
+alert("Es un mensaje de alerta");
 
 $smarty->assign("direc_css", $direc_css);
 $smarty->display("asesores.tpl");
