@@ -10,7 +10,7 @@
 				ASESORES
 			</h1>
 			<h1>
-			Un asesor de ventas es un profesional experto en gestión
+			Un asesor 1111111111de ventas es un profesional experto en gestión
 			comercial responsable por la expansión de una empresa 
 			en el mercado. Su principal objetivo es realizar un análisis
 			general del departamento comercial para garantizar el buen funcionamiento
