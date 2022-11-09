@@ -9,6 +9,13 @@
 			<h1>
 				ASESORES
 			</h1>
+			<h1>
+			Un asesor de ventas es un profesional experto en gestión
+			comercial responsable por la expansión de una empresa 
+			en el mercado. Su principal objetivo es realizar un análisis
+			general del departamento comercial para garantizar el buen funcionamiento
+			del negocio.
+			</h1>
 		</div>
 		<div class="titulo_listado">
 			<form name="formNuevo" method="post" action="asesor_nuevo.php">
